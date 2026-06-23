@@ -1,4 +1,4 @@
-### Hi there 👋, Md. Fahim Hossain
+### Hi, I'm Md. Fahim Hossain
 #### CSE Undergraduate at UITS | Aspiring Web Developer & AI/ML Enthusiast 
 ![CSE Undergraduate at UITS | Aspiring Web Developer & AI/ML Enthusiast ](https://media.licdn.com/dms/image/v2/D5622AQHClif2QvS9JQ/feedshare-shrink_1280/B56Z72bB_UKcAM-/0/1782250742102?e=1783555200&v=beta&t=iW_rbXilFALpmoXIMq0SDvyvb5-TmFADVvWjPFRh830)
 
