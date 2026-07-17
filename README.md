@@ -99,7 +99,7 @@ I'm **Md. Fahim Hossain**, a passionate Computer Science student who enjoys crea
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahimhossain1617&show_icons=true&bg_color=0d1117&title_color=A855F7&text_color=E9D5FF&icon_color=C084FC&border_color=7E22CE&hide_border=false"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimhossakn1617&layout=compact&bg_color=0d1117&title_color=A855F7&text_color=E9D5FF&border_color=7E22CE"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimhossain1617&layout=compact&bg_color=0d1117&title_color=A855F7&text_color=E9D5FF&border_color=7E22CE"/>
 
 </div>
 
@@ -155,7 +155,7 @@ I'm **Md. Fahim Hossain**, a passionate Computer Science student who enjoys crea
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=fahimhossain1617 &style=for-the-badge&color=8B5CF6"/>
+<img src="https://komarev.com/ghpvc/?username=fahimhossain1617&style=for-the-badge&color=8B5CF6"/>
 
 <br><br>
 
