@@ -150,24 +150,6 @@ while mastering
 </div>
 
 ---
-
-# 🎯 2026 Goals
-
-<div align="center">
-
-| 🎯 Goal | Status |
-|---------|--------|
-| Master JavaScript | 🔥 In Progress |
-| Learn Java OOP | 🔥 In Progress |
-| Build Real Projects | 🚀 Ongoing |
-| Learn React.js | 📅 Coming Soon |
-| Learn Next.js | 📅 Planned |
-| Start AI / ML | 🌌 Future |
-
-</div>
-
----
-
 # 💡 Core Skills
 
 <div align="center">
