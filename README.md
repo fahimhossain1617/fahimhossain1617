@@ -4,7 +4,7 @@
 
 <div align="center">
 
-# <span style="background: linear-gradient(90deg,#8B5CF6,#A855F7,#C084FC); -webkit-background-clip:text; color:transparent;">Hi, I'm Md. Fahim Hossain 🚀</span>
+# <span style="background: linear-gradient(90deg,#8B5CF6,#A855F7,#C084FC); -webkit-background-clip:text; color:transparent;">Hi, I'm Md. Fahim Hossain </span>
 
 ### **2nd Semester CSE Student at UITS | Aspiring Web Developer & Future AI/ML Engineer**
 
@@ -19,7 +19,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7E22CE,100:A855F7&height=3&section=header"/>
 
-# 💜 About Me
+# About Me
 
 <table>
 <tr>
@@ -57,9 +57,9 @@ I'm **Md. Fahim Hossain**, a passionate Computer Science student who enjoys crea
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7E22CE,100:A855F7&height=3"/>
 
-# 💻 Tech Stack
+#  Tech Stack
 
-## 🚀 Languages
+## Languages
 
 <p align="center">
 
@@ -77,7 +77,7 @@ I'm **Md. Fahim Hossain**, a passionate Computer Science student who enjoys crea
 
 ---
 
-## 🎨 Design & Tools
+##  Design & Tools
 
 <p align="center">
 
@@ -93,9 +93,8 @@ I'm **Md. Fahim Hossain**, a passionate Computer Science student who enjoys crea
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7E22CE,100:A855F7&height=3"/>
 
-# 📊 GitHub Analytics
 
-# 📊 GitHub Analytics
+#  GitHub Analytics
 
 <div align="center">
 
@@ -112,7 +111,7 @@ I'm **Md. Fahim Hossain**, a passionate Computer Science student who enjoys crea
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimhossain1617&theme=tokyonight"/>
 
 </div>
-# 🌐 Let's Connect
+#  Let's Connect
 
 <div align="center">
 
@@ -132,7 +131,7 @@ I'm **Md. Fahim Hossain**, a passionate Computer Science student who enjoys crea
 
 ---
 
-# ✨ Quote
+#  Quote
 
 <div align="center">
 
@@ -148,7 +147,7 @@ I'm **Md. Fahim Hossain**, a passionate Computer Science student who enjoys crea
 
 <br><br>
 
-### ⭐ Thanks for visiting my profile!
+###  Thanks for visiting my profile!
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7E22CE,100:C084FC&height=120&section=footer"/>
 
