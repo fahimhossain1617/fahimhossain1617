@@ -1,28 +1,167 @@
-### Hi, I'm Md. Fahim Hossain
-#### CSE Undergraduate at UITS | Aspiring Web Developer & AI/ML Enthusiast 
-![CSE Undergraduate at UITS | Aspiring Web Developer & AI/ML Enthusiast ](https://media.licdn.com/dms/image/v2/D5622AQHClif2QvS9JQ/feedshare-shrink_1280/B56Z72bB_UKcAM-/0/1782250742102?e=1783555200&v=beta&t=iW_rbXilFALpmoXIMq0SDvyvb5-TmFADVvWjPFRh830)
+<!-- ========================================================= -->
+<!--               GitHub Profile README - Md. Fahim Hossain   -->
+<!-- ========================================================= -->
 
-I'm a second-year Computer Science and Engineering student at the University of Information Technology and Sciences (UITS), Dhaka. I recently completed my foundation in C programming, and I'm now expanding into UI/UX design and JavaScript as I work toward specializing in Web Development.
+<div align="center">
 
-I'm passionate about continuous learning and building real-world projects, with the long-term goal of becoming a job-ready software engineer. I'm documenting this journey as I grow from the fundamentals toward more advanced skills in design and development.
+# <span style="background: linear-gradient(90deg,#8B5CF6,#A855F7,#C084FC); -webkit-background-clip:text; color:transparent;">Hi, I'm Md. Fahim Hossain 🚀</span>
 
-Skills: C Programming / HTML & CSS / Git & GitHub / Currently Learning: JavaScript & Web Development
+### **2nd Semester CSE Student at UITS | Aspiring Web Developer & Future AI/ML Engineer**
 
-- 🔭 I’m currently working on Computer Science student at UITS 
-- 🌱 I’m currently learning Java programming and UI/UX 
-- 👯 I’m looking to collaborate on Web development projects 
-- 📫 How to reach me: fahimhossain1617@gmail.com 
-- 😄 Pronouns: He/Him 
-- ⚡ Fun fact: When I'm not coding, you'll find me exploring the streets with my camera or playing my guitar 
+<img src= https://kommodo.ai/i/sPS1Y6jzsqjmPFlwq77Q width="170px" style="border-radius:50%; border:3px solid #8a2be2;" />
 
+<br><br>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/fahimhossain1617)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-fahim-hossain-a991853ab?utm_source=share_via&utm_content=profile&utm_medium=member_android/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100074111749557)  
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=A855F7&center=true&vCenter=true&width=700&lines=Passionate+Web+Developer;Learning+JavaScript+%7C+Java;Future+AI%2FML+Engineer;Always+Learning+Something+New+🚀" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fahimhossain1617)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=fahimhossain1617&show_icons=true)  
+---
 
-![GitHub metrics](https://metrics.lecoq.io/fahimhossain1617)  
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7E22CE,100:A855F7&height=3&section=header"/>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=fahimhossain1617)  
+# 💜 About Me
 
+<table>
+<tr>
+
+<td width="65%">
+
+### 👋 Hello!
+
+I'm **Md. Fahim Hossain**, a passionate Computer Science student who enjoys creating modern websites and continuously improving my programming skills.
+
+- 🎓 **2nd Semester** CSE Student at **UITS**
+- 💻 Currently mastering **JavaScript** and learning **Java**
+- 🌐 Passionate about **Modern Web Development**
+- 🤖 Future Goal: Become an **AI/ML Engineer**
+- ✅ Completed foundations in:
+  - C Programming
+  - UI/UX Design
+  - HTML5
+  - CSS3
+- 🚀 Love building beautiful and user-friendly projects
+- 📚 Always learning new technologies every day
+
+</td>
+
+<td align="center">
+
+<img src= https://kommodo.ai/i/sPS1Y6jzsqjmPFlwq77Q width="220"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7E22CE,100:A855F7&height=3"/>
+
+# 💻 Tech Stack
+
+## 🚀 Languages
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/C-1A1B27?style=for-the-badge&logo=c&logoColor=A855F7"/>
+
+<img src="https://img.shields.io/badge/JavaScript-1A1B27?style=for-the-badge&logo=javascript&logoColor=A855F7"/>
+
+<img src="https://img.shields.io/badge/Java-1A1B27?style=for-the-badge&logo=openjdk&logoColor=A855F7"/>
+
+<img src="https://img.shields.io/badge/HTML5-1A1B27?style=for-the-badge&logo=html5&logoColor=A855F7"/>
+
+<img src="https://img.shields.io/badge/CSS3-1A1B27?style=for-the-badge&logo=css3&logoColor=A855F7"/>
+
+</p>
+
+---
+
+## 🎨 Design & Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Figma-1A1B27?style=for-the-badge&logo=figma&logoColor=A855F7"/>
+
+<img src="https://img.shields.io/badge/Git-1A1B27?style=for-the-badge&logo=git&logoColor=A855F7"/>
+
+<img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=A855F7"/>
+
+</p>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7E22CE,100:A855F7&height=3"/>
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0d1117&title_color=A855F7&text_color=E9D5FF&icon_color=C084FC&border_color=7E22CE&hide_border=false"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=0d1117&title_color=A855F7&text_color=E9D5FF&border_color=7E22CE"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=E9D5FF&sideLabels=E9D5FF&currStreakNum=FFFFFF&border=7E22CE"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=C084FC&line=A855F7&point=FFFFFF&area=true&hide_border=true"/>
+
+</div>
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7E22CE,100:A855F7&height=3"/>
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/md-fahim-hossain-cse?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+<img src="https://img.shields.io/badge/LinkedIn-1A1B27?style=for-the-badge&logo=linkedin&logoColor=A855F7"/>
+</a>
+
+<a href="mailto:fahimhossain1617@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-1A1B27?style=for-the-badge&logo=gmail&logoColor=A855F7"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Figma-Md.Fahim%20Hossain-1A1B27?style=for-the-badge&logo=figma&logoColor=A855F7"/>
+</a>
+
+</div>
+
+---
+
+# ✨ Quote
+
+<div align="center">
+
+> **"Every great developer was once a beginner. Keep building, keep learning, and never stop improving." 💜**
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=Md.Fahim Hossain &style=for-the-badge&color=8B5CF6"/>
+
+<br><br>
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C1D95,50:7E22CE,100:C084FC&height=120&section=footer"/>
+
+</div>
