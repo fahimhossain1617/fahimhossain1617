@@ -5,7 +5,7 @@
 ### 2nd Semester CSE Student at UITS
 ### Aspiring Web Developer • Future AI/ML Engineer
 
-<img src=[![file-000000002f8071fabd15c1982eab3786.png](https://i.postimg.cc/5tX3yDSZ/file-000000002f8071fabd15c1982eab3786.png)](https://postimg.cc/PLkZF3c4) width="180" />
+<img src=<img src="https://i.postimg.cc/5tX3yDSZ/file-000000002f8071fabd15c1982eab3786.png" width="180" />) width="180" />
 
 <br>
 
