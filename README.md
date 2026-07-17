@@ -46,8 +46,7 @@ I'm **Md. Fahim Hossain**, a passionate Computer Science student who enjoys crea
 
 <td align="center">
 
-<img src="https://images.prodia.xyz/afc1e05f-fa6a-4b08-bba1-d68f293b6796.png" width="150px" style="border-radius: 50%; border: 3px solid #8a2be2;" alt="Md. Fahim Hossain" />
-
+[![file-000000002f8071fabd15c1982eab3786.png](https://i.postimg.cc/5tX3yDSZ/file-000000002f8071fabd15c1982eab3786.png)](https://postimg.cc/PLkZF3c4)
 
 </td>
 
