@@ -95,11 +95,13 @@ I'm **Md. Fahim Hossain**, a passionate Computer Science student who enjoys crea
 
 # 📊 GitHub Analytics
 
+# 📊 GitHub Analytics
+
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahimhossain1617&show_icons=true&bg_color=0d1117&title_color=A855F7&text_color=E9D5FF&icon_color=C084FC&border_color=7E22CE&hide_border=false"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fahimhossain1617&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimhossain1617&layout=compact&bg_color=0d1117&title_color=A855F7&text_color=E9D5FF&border_color=7E22CE"/>
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fahimhossain1617&theme=tokyonight"/>
 
 </div>
 
@@ -107,22 +109,9 @@ I'm **Md. Fahim Hossain**, a passionate Computer Science student who enjoys crea
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=fahimhossain1617&theme=tokyonight&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=E9D5FF&sideLabels=E9D5FF&currStreakNum=FFFFFF&border=7E22CE"/>
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimhossain1617&theme=tokyonight"/>
 
 </div>
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=fahimhossain1617&bg_color=0D1117&color=C084FC&line=A855F7&point=FFFFFF&area=true&hide_border=true"/>
-
-</div>
-
----
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,50:7E22CE,100:A855F7&height=3"/>
-
 # 🌐 Let's Connect
 
 <div align="center">
