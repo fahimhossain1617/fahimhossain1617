@@ -100,7 +100,7 @@ I'm **Md. Fahim Hossain**, a passionate Computer Science student who enjoys crea
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0d1117&title_color=A855F7&text_color=E9D5FF&icon_color=C084FC&border_color=7E22CE&hide_border=false"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&bg_color=0d1117&title_color=A855F7&text_color=E9D5FF&border_color=7E22CE"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimhossakn1617&layout=compact&bg_color=0d1117&title_color=A855F7&text_color=E9D5FF&border_color=7E22CE"/>
 
 </div>
 
@@ -108,7 +108,7 @@ I'm **Md. Fahim Hossain**, a passionate Computer Science student who enjoys crea
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=E9D5FF&sideLabels=E9D5FF&currStreakNum=FFFFFF&border=7E22CE"/>
+<img src="https://streak-stats.demolab.com?user=fahimhossain1617&theme=tokyonight&background=0D1117&ring=A855F7&fire=C084FC&currStreakLabel=E9D5FF&sideLabels=E9D5FF&currStreakNum=FFFFFF&border=7E22CE"/>
 
 </div>
 
@@ -116,7 +116,7 @@ I'm **Md. Fahim Hossain**, a passionate Computer Science student who enjoys crea
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&bg_color=0D1117&color=C084FC&line=A855F7&point=FFFFFF&area=true&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=fahimhossain1617&bg_color=0D1117&color=C084FC&line=A855F7&point=FFFFFF&area=true&hide_border=true"/>
 
 </div>
 
