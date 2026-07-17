@@ -8,7 +8,7 @@
 
 ### **2nd Semester CSE Student at UITS | Aspiring Web Developer & Future AI/ML Engineer**
 
-<img src= https://kommodo.ai/i/sPS1Y6jzsqjmPFlwq77Q width="170px" style="border-radius:50%; border:3px solid #8a2be2;" />
+<img src="https://images.prodia.xyz/afc1e05f-fa6a-4b08-bba1-d68f293b6796.png" width="150px" style="border-radius: 50%; border: 3px solid #8a2be2;" alt="Md. Fahim Hossain" />
 
 <br><br>
 
@@ -47,7 +47,8 @@ I'm **Md. Fahim Hossain**, a passionate Computer Science student who enjoys crea
 
 <td align="center">
 
-<img src= https://kommodo.ai/i/sPS1Y6jzsqjmPFlwq77Q width="220"/>
+<img src="https://images.prodia.xyz/afc1e05f-fa6a-4b08-bba1-d68f293b6796.png" width="150px" style="border-radius: 50%; border: 3px solid #8a2be2;" alt="Md. Fahim Hossain" />
+
 
 </td>
 
@@ -98,7 +99,7 @@ I'm **Md. Fahim Hossain**, a passionate Computer Science student who enjoys crea
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&bg_color=0d1117&title_color=A855F7&text_color=E9D5FF&icon_color=C084FC&border_color=7E22CE&hide_border=false"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=fahimhossain1617&show_icons=true&bg_color=0d1117&title_color=A855F7&text_color=E9D5FF&icon_color=C084FC&border_color=7E22CE&hide_border=false"/>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahimhossakn1617&layout=compact&bg_color=0d1117&title_color=A855F7&text_color=E9D5FF&border_color=7E22CE"/>
 
@@ -156,7 +157,7 @@ I'm **Md. Fahim Hossain**, a passionate Computer Science student who enjoys crea
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Md.Fahim Hossain &style=for-the-badge&color=8B5CF6"/>
+<img src="https://komarev.com/ghpvc/?username=fahimhossain1617 &style=for-the-badge&color=8B5CF6"/>
 
 <br><br>
 
