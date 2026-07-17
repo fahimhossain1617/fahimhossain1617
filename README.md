@@ -93,7 +93,11 @@ while mastering
 
 <td align="center">
 
-<img src="https://github-widgetbox.vercel.app/api/profile?username=fahimhossain1617&theme=dark"/>
+<td align="center" width="40%">
+  <img src="https://i.postimg.cc/5tX3yDSZ/file-000000002f8071fabd15c1982eab3786.png"
+       width="260"
+       style="border-radius:50%;border:4px solid #A855F7;" />
+</td>
 
 </td>
 
