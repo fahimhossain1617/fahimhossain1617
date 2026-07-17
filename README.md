@@ -131,7 +131,7 @@ while mastering
 
 ---
 
-# 🚀 Current Learning Roadmap
+# 🚀 Current Learning
 
 <div align="center">
 
