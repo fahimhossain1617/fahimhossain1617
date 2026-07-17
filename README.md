@@ -107,43 +107,6 @@ while mastering
 
 ---
 
-# 🚀 My Journey
-
-```text
-2025  █████████░░░  Programming Started
-
-2026  ████████████  JavaScript + Java + UI/UX
-
-2027  ████████████  React + Next.js
-
-2028  ████████████  AI / ML
-
-Goal  ████████████  Software Engineer 🚀
-```
-
----
-
-<div align="center">
-
-### ⚡ Fun Facts
-
-💜 Coffee + Coding = Happiness
-
-🚀 Love Building Beautiful Websites
-
-🎯 Learning Something New Everyday
-
-🌙 Night Owl Developer
-
-</div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:C084FC,50:7E22CE,100:4C1D95"/>
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:4C1D95,50:7E22CE,100:C084FC"/>
-
 # 💻 Tech Stack
 
 <div align="center">
