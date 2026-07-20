@@ -110,6 +110,21 @@ I'm **Md. Fahim Hossain**, a passionate Computer Science student who enjoys crea
 
 <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fahimhossain1617&theme=tokyonight"/>
 
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Md-Fahim-Hossain&theme=purple" alt="Fahim's Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-one-eight.vercel.app/api?username=Md-Fahim-Hossain&show_icons=true&theme=purple&count_private=true" alt="Fahim's GitHub Stats" />
+  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=Md-Fahim-Hossain&layout=compact&theme=purple" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Md-Fahim-Hossain&theme=purple&column=7" alt="GitHub Trophies" />
+</p>
+
+
 </div>
 #  Let's Connect
 
